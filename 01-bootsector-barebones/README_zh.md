@@ -48,12 +48,10 @@ To compile编译:<br/>
 
 > OSX warning: if this drops an error, read chapter 00 again<br/>OSX警告：如果出现错误，请再次阅读第00章<br/>
 
-I know you're anxious to try it out (I am!), so let's do it:
+I know you're anxious to try it out (I am!), so let's do it:<br/>O我知道你很想试试（我是！），让我们来做：<br/>O
 
 `qemu boot_sect_simple.bin`
 
-> On some systems, you may have to run `qemu-system-x86_64 boot_sect_simple.bin` If this gives an SDL error, try passing the --nographic and/or --curses flag(s).
+> On some systems, you may have to run `qemu-system-x86_64 boot_sect_simple.bin` If this gives an SDL error, try passing the --nographic and/or --curses flag(s).<br/>在某些系统上，您可能需要运行'qemu-system-x86_64 boot-sect_simple.bin'，如果这会导致SDL错误，请尝试传递--nographic和/或--curses标志。<br/>
 
-You will see a window open which says "Booting from Hard Disk..." and
-nothing else. When was the last time you were so excited to see an infinite
-loop? ;-)
+You will see a window open which says "Booting from Hard Disk..." and nothing else. When was the last time you were so excited to see an infinite loop? ;-)<br/>你会看到一个窗口打开，上面写着“从硬盘启动…”，没有其他内容。上一次你如此兴奋地看到无限循环是什么时候？；-）
