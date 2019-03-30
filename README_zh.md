@@ -1,4 +1,4 @@
-os-tutorial教程
+### os-tutorial教程
 ===========
 
 How to create an OS from scratch!<br/>
@@ -24,7 +24,7 @@ code samples for anybody to follow. Honestly, this tutorial is basically the fir
 split into smaller pieces and without the theory.<br/>
 根据[这份文档](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)和[操作系统开发维基](http://wiki.osdev.org/),我将尝试一步一步地做一些简短的自述和代码示例，供任何人使用。老实说，本教程基本上是第一个文档，但是分成了更小的部分，没有理论。
 
-# Features特征<br/>
+### Features特征<br/>
 - This course is a code tutorial aimed at people who are comfortable with low level computing. For example, programmers who have curiosity on how an OS works but don't have the time or willpower to start reading the Linux kernel top to bottom.
 - 本课程是一个代码教程，针对那些熟悉低级计算的人。例如，对操作系统如何工作有好奇心但没有时间或意志力从头到脚阅读Linux内核的程序员。
 - There is little theory. Yes, this is a feature. Google is your theory lecturer. Once you pass college, excessive theory is worse than no theory because it makes things seem more difficult than they really are.
@@ -32,7 +32,6 @@ split into smaller pieces and without the theory.<br/>
 - The lessons are tiny and may take 5-15 minutes to complete. Trust me and trust yourself. You can do it!<br/>
 - 课程很小，可能需要5-15分钟才能完成。相信我，相信你自己。你能行！
 
-# How to use this tutorial
-怎么使用这个教程
+### How to use this tutorial怎么使用这个教程
 
 
