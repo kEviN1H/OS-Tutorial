@@ -51,21 +51,21 @@ else:
 endif:
 ```
 
-Think in your head in high level, then convert it to assembler in this fashion.<br/>
+Think in your head in high level, then convert it to assembler in this fashion.<br/>在您的头脑中进行高级思考，然后以这种方式将其转换为汇编程序。
 
 There are many `jmp` conditions: if equal, if less than, etc. They are pretty 
-intuitive but you can always Google them<br/>
+intuitive but you can always Google them<br/>有许多`jmp`条件：如果相等，如果小于，等等。它们是非常直观的，但是你可以随时用谷歌搜索它们。
 
 
-Calling functions<br/>
+Calling functions<br/>调用函数
 -----------------
 
-As you may suppose, calling a function is just a jump to a label.<br/>
+As you may suppose, calling a function is just a jump to a label.<br/>正如您可能认为的，调用函数只是跳转到标签
 
-The tricky part are the parameters. There are two steps to working with parameters:<br/>
+The tricky part are the parameters. There are two steps to working with parameters:<br/>棘手的部分是参数。使用参数有两个步骤:
 
-1. The programmer knows they share a specific register or memory address<br/>
-2. Write a bit more code and make function calls generic and without side effects<br/>
+1. The programmer knows they share a specific register or memory address<br/>程序员知道他们共享一个特定的寄存器或内存地址。
+2. Write a bit more code and make function calls generic and without side effects<br/>写更多的代码，使函数调用通用化，没有副作用
 
 Step 1 is easy. Let's just agree that we will use `al` (actually, `ax`) for the parameters.<br/>
 
