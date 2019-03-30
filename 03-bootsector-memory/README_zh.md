@@ -42,7 +42,7 @@ the boot sector offset and memory addressing.<br/>请不要继续下一节，除
 
 
 The global offset<br/>全局偏移
------------------
+----
 
 Now, since offsetting `0x7c00` everywhere is very inconvenient, assemblers let
 us define a "global offset" for every memory location, with the `org` command:<br/>
