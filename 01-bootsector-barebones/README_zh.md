@@ -46,7 +46,7 @@ dw 0xaa55
 To compile编译:<br/>
 `nasm -f bin boot_sect_simple.asm -o boot_sect_simple.bin`
 
-> OSX warning: if this drops an error, read chapter 00 again
+> OSX warning: if this drops an error, read chapter 00 again<br/>OSX警告：如果出现错误，请再次阅读第00章<br/>
 
 I know you're anxious to try it out (I am!), so let's do it:
 
