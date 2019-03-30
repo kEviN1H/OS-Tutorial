@@ -42,3 +42,40 @@ split into smaller pieces and without the theory.<br/>
 
 TL;DR: First read the README on each folder, then the code files. If you're brave, try to code them yourself.<br/>首先阅读每个文件夹的自述文件，然后阅读代码文件。如果你很勇敢，试着自己编代码。
 
+### Strategy策略
+We will want to do many things with our OS:
+我们需要做许多事情与我们的操作系统:
+
+- Boot from scratch, without GRUB - DONE!
+- 从头开始启动,没有GRUB -完成!
+- Enter 32-bit mode - DONE
+- 进入32位模式-完成
+- Jump from Assembly to C - DONE!
+- 从汇编跳到C-完成！
+- Interrupt handling - DONE!
+- 中断处理-完成！
+- Screen output and keyboard input - DONE!
+- 屏幕输出和键盘输入-完成！
+- A tiny, basic libc which grows to suit our needs - DONE!
+- 一个小的，基本的“libc”，它的增长，以满足我们的需要-完成！
+- Memory management
+- 内存管理
+- Write a filesystem to store files
+- 写一个文件系统来存储文件
+- Create a very simple 
+- 创建一个非常简单的Shell
+- User mode
+- 用户模式
+- Maybe we will write a simple text editor
+- 也许我们会写一个简单的文本编辑器
+- Multiple processes and scheduling
+- 多进程和调度
+
+
+Probably we will go through them in that order, however it's soon to tell.
+
+If we feel brave enough:
+
+A BASIC interpreter, like in the 70s!
+A GUI
+Networking
