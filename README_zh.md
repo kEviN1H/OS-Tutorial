@@ -32,6 +32,18 @@ split into smaller pieces and without the theory.<br/>
 - The lessons are tiny and may take 5-15 minutes to complete. Trust me and trust yourself. You can do it!<br/>
 - 课程很小，可能需要5-15分钟才能完成。相信我，相信你自己。你能行！
 
-#### How to use this tutorial怎么使用这个教程
+#### How to use this tutorial怎样使用这个教程
+1. Start with the first folder and go down in order. They build on previous code, so if you jump right to folder 05 and don't know why there is a mov ah, 0x0e, it's because you missed lecture 02. Really, just go in order. You can always skip stuff you already know.
 
+2. Open the README and read the first line, which details the concepts you should be familiar with before reading the code. Google concepts you are not familiar with. The second line states the goals for each lesson. Read them, because they explain why we do what we do. The "why" is as important as the "how".
+
+3. Read the rest of the README. It is very concise.
+
+4. (Optional) Try to write the code files by yourself after reading the README.
+
+5. Look at the code examples. They are extremely well commented.
+
+6. (Optional) Experiment with them and try to break things. The only way to make sure you understood something is trying to break it or replicate it with different commands.
+
+TL;DR: First read the README on each folder, then the code files. If you're brave, try to code them yourself.
 
