@@ -36,9 +36,8 @@ split into smaller pieces and without the theory.<br/>
 1. Start with the first folder and go down in order. They build on previous code, so if you jump right to folder 05 and don't know why there is a mov ah, 0x0e, it's because you missed lecture 02. Really, just go in order. You can always skip stuff you already know.<br/>从第一个文件夹开始，按顺序向下。它们建立在以前的代码之上，所以如果你直接跳到05文件夹，不知道为什么会有一个mov ah，0x0e，那是因为你错过了02课。真的，按顺序走。你可以跳过你已经知道的东西。
 2. Open the README and read the first line, which details the concepts you should be familiar with before reading the code. Google concepts you are not familiar with. The second line states the goals for each lesson. Read them, because they explain why we do what we do. The "why" is as important as the "how".<br/>打开自述文件并阅读第一行，其中详细介绍了在阅读代码之前应该熟悉的概念。谷歌你不熟悉的概念。第二行说明了每节课的目标。阅读它们，因为它们解释了我们为什么要做我们所做的。“为什么”和“如何”一样重要。
 3. Read the rest of the README. It is **very concise**.<br/>阅读自述文件的其余部分。它**非常简洁**。
-4. (Optional) Try to write the code files by yourself after reading the README.<br/>（可选）在阅读自述文件后，尝试自己编写代码文件。
+4. (Optional) Try to write the code files by yourself after reading the README.<br/>(可选)在阅读自述文件后，尝试自己编写代码文件。
 5. Look at the code examples. They are extremely well commented.<br/>看看代码示例。他们评论得非常好。
-6. (Optional) Experiment with them and try to break things. The only way to make sure you understood something is trying to break it or replicate it with different commands.
-
-TL;DR: First read the README on each folder, then the code files. If you're brave, try to code them yourself.
+6. (Optional) Experiment with them and try to break things. The only way to make sure you understood something is trying to break it or replicate it with different commands.<br/>(可选)尝试它们，尝试打破事物。确保您理解某件事情的唯一方法是尝试破坏它或用不同的命令复制它。
+TL;DR: First read the README on each folder, then the code files. If you're brave, try to code them yourself.<br/>首先阅读每个文件夹的自述文件，然后阅读代码文件。如果你很勇敢，试着自己编代码。
 
