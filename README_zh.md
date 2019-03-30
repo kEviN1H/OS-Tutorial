@@ -22,5 +22,5 @@ a good idea to learn operating systems.
 Inspired by [this document](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 and the [OSDev wiki](http://wiki.osdev.org/), I'll try to make short step-by-step READMEs and
 code samples for anybody to follow. Honestly, this tutorial is basically the first document but
-split into smaller pieces and without the theory.
+split into smaller pieces and without the theory.<br/>
 根据[这份文档](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)和[操作系统开发维基](http://wiki.osdev.org/),我将尝试一步一步地做一些简短的自述和代码示例，供任何人使用。老实说，本教程基本上是第一个文档，但是分成了更小的部分，没有理论。
