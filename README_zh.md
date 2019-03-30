@@ -2,12 +2,12 @@ os-tutorial
 操作系统-教程
 ===========
 
-How to create an OS from scratch!
+How to create an OS from scratch!<br/>
 如何从头开始创建一个操作系统！
 
 I have always wanted to learn how to make an OS from scratch. In college I was taught
 how to implement advanced features (pagination, semaphores, memory management, etc)
-but:
+but:<br/>
 我一直想学习如何从头开始制作操作系统。在大学里，我学习了如何实现高级功能（分页、信号量、内存管理等）
 但是：
 
