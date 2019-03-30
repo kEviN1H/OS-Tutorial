@@ -48,7 +48,7 @@ To compile编译:<br/>
 
 > OSX warning: if this drops an error, read chapter 00 again<br/>OSX警告：如果出现错误，请再次阅读第00章<br/>
 
-I know you're anxious to try it out (I am!), so let's do it:<br/>O我知道你很想试试（我是！），让我们来做：<br/>O
+I know you're anxious to try it out (I am!), so let's do it:<br/>我知道你很想试试（我是！），让我们来做：<br/>
 
 `qemu boot_sect_simple.bin`
 
