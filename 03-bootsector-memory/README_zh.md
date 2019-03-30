@@ -55,12 +55,12 @@ us define a "global offset" for every memory location, with the `org` command:<b
 Go ahead and **open `boot_sect_memory_org.asm`** and you will see the canonical
 way to print data with the boot sector, which is now attempt 2. Compile the code
 and run it, and you will see how the `org` command affects each previous solution.<br/>
-继续并**打开**`boot_sect_memory_org.asm`您将看到用引导扇区打印数据的规范方法，现在尝试2。编译代码并运行它，
+继续并**打开`boot_sect_memory_org.asm`** 您将看到用引导扇区打印数据的规范方法，现在尝试2。编译代码并运行它，
 您将看到`org`命令如何影响前面的每个解决方案。
 
 Read the comments for a full explanation of the changes with and without `org`<br/>
-
+阅读评论以获得对有或无`org`的更改的完整解释
 -----
 
 [1] This whole tutorial is heavily inspired on that document. Please read the
-root-level README for more information on that.<br/>
+root-level README for more information on that.<br/>[1] 整个教程都受到了该文档的启发。有关详细信息，请阅读根级自述文件。
