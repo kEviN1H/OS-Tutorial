@@ -31,3 +31,8 @@ split into smaller pieces and without the theory.<br/>
 - 几乎没有什么理论。是的，这是一个功能。谷歌是你的理论讲师。一旦你通过了大学，过度理论比没有理论更糟糕，因为它使事情看起来比实际困难。
 - The lessons are tiny and may take 5-15 minutes to complete. Trust me and trust yourself. You can do it!<br/>
 - 课程很小，可能需要5-15分钟才能完成。相信我，相信你自己。你能行！
+
+# How to use this tutorial
+怎么使用这个教程
+
+
