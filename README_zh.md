@@ -72,12 +72,14 @@ We will want to do many things with our OS:
 - 多进程和调度
 
 
-Probably we will go through them in that order, however it's soon to tell.
+Probably we will go through them in that order, however it's soon to tell.<br/>
 也许我们会按照这个顺序进行检查，不过很快就会知道。
 
-If we feel brave enough:
+If we feel brave enough:<br/>
 如果我们觉得足够勇敢:
-
 - A BASIC interpreter, like in the 70s!
+- 一个基本的解释器，就像70年代一样！
 - A GUI
+- 图形用户界面
 - Networking
+- 网络
