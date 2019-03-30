@@ -1,5 +1,4 @@
-os-tutorial<br/>
-os-教程
+os-tutorial教程
 ===========
 
 How to create an OS from scratch!<br/>
