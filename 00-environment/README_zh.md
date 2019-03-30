@@ -4,7 +4,8 @@ Concepts you may want to Google beforehand: linux, mac, terminal, compiler, emul
 **Goal: Install the software required to run this tutorial<br/>
 目标:安装软件需要运行这个教程**
 
-I'm working on a Mac, though Linux is better because it will have all the standard tools already available for you.
+I'm working on a Mac, though Linux is better because it will have all the standard tools already available for you.<br/>
+我正在开发一个Mac，不过Linux更好，因为它已经为您提供了所有的标准工具。<br/>
 
 On a mac, install Homebrew and then brew install qemu nasm
 
