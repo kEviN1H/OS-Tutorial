@@ -38,6 +38,7 @@ split into smaller pieces and without the theory.<br/>
 3. Read the rest of the README. It is **very concise**.<br/>阅读自述文件的其余部分。它**非常简洁**。
 4. (Optional) Try to write the code files by yourself after reading the README.<br/>(可选)在阅读自述文件后，尝试自己编写代码文件。
 5. Look at the code examples. They are extremely well commented.<br/>看看代码示例。他们评论得非常好。
-6. (Optional) Experiment with them and try to break things. The only way to make sure you understood something is trying to break it or replicate it with different commands.<br/>(可选)尝试它们，尝试打破事物。确保您理解某件事情的唯一方法是尝试破坏它或用不同的命令复制它。<br/></p>
+6. (Optional) Experiment with them and try to break things. The only way to make sure you understood something is trying to break it or replicate it with different commands.<br/>(可选)尝试它们，尝试打破事物。确保您理解某件事情的唯一方法是尝试破坏它或用不同的命令复制它。
+
 TL;DR: First read the README on each folder, then the code files. If you're brave, try to code them yourself.<br/>首先阅读每个文件夹的自述文件，然后阅读代码文件。如果你很勇敢，试着自己编代码。
 
