@@ -73,9 +73,11 @@ We will want to do many things with our OS:
 
 
 Probably we will go through them in that order, however it's soon to tell.
+也许我们会按照这个顺序进行检查，不过很快就会知道。
 
 If we feel brave enough:
+如果我们觉得足够勇敢:
 
-A BASIC interpreter, like in the 70s!
-A GUI
-Networking
+- A BASIC interpreter, like in the 70s!
+- A GUI
+- Networking
