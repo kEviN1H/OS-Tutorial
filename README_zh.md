@@ -34,7 +34,7 @@ split into smaller pieces and without the theory.<br/>
 
 ### How to use this tutorial怎样使用这个教程
 1. Start with the first folder and go down in order. They build on previous code, so if you jump right to folder 05 and don't know why there is a mov ah, 0x0e, it's because you missed lecture 02. Really, just go in order. You can always skip stuff you already know.
-
+  从第一个文件夹开始，按顺序向下。它们建立在以前的代码之上，所以如果你直接跳到05文件夹，不知道为什么会有一个mov ah，0x0e，那是因为你错过了02课。真的，按顺序走。你可以跳过你已经知道的东西。
 2. Open the README and read the first line, which details the concepts you should be familiar with before reading the code. Google concepts you are not familiar with. The second line states the goals for each lesson. Read them, because they explain why we do what we do. The "why" is as important as the "how".
 
 3. Read the rest of the README. It is very concise.
